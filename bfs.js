@@ -18,3 +18,8 @@ const breadthFirstPrint = (graph, source) => {
     }
 }
 breadthFirstPrint(graph, 'a'); //acbedf
+quer = [source]
+current = que.shift()
+for (graph[current]){
+    MediaQueryList.push
+}
